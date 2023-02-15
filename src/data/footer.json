@@ -1,0 +1,32 @@
+{
+  "footer": {
+    "name": "Learn Daily Team",
+    "icon": "assets/icons/heart.svg",
+    "menu": [
+      {
+        "link": "hero",
+        "title": "Home"
+      },
+      {
+        "link": "benefits",
+        "title": "Benefits"
+      },
+      {
+        "link": "chapters",
+        "title": "Chapters"
+      },
+      {
+        "link": "pricing",
+        "title": "Pricing"
+      },
+      {
+        "link": "author",
+        "title": "Author"
+      },
+      {
+        "link": "contact",
+        "title": "Contact"
+      }
+    ]
+  }
+}

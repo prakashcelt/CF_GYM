@@ -1,0 +1,33 @@
+{
+  "achieve": {
+    "subtitle": "WHY CURVES FITNESS?",
+    "title": "What you'll achieve JOINING US",
+    "image": "assets/images/achive2.JPG",
+    "achieveItem": [
+      {
+        "id": 1,
+        "icon": "assets/icons/1.svg",
+        "title": "Weighlifting",
+        "description": "Lorem ipsum dolor sit amet ametus conso tetur ading elitor,"
+      },
+      {
+        "id": 1,
+        "icon": "assets/icons/2.svg",
+        "title": "FlexYourMuscle",
+        "description": "Lorem ipsum dolor sit amet ametus conso tetur ading elitor"
+      },
+      {
+        "id": 1,
+        "icon": "assets/icons/3.svg",
+        "title": "GoalOrientedTraing",
+        "description": "Lorem ipsum dolor sit amet ametus conso tetur ading elitor f"
+      },
+      {
+        "id": 1,
+        "icon": "assets/icons/4.svg",
+        "title": "Cardio",
+        "description": "Lorem ipsum dolor sit amet ametus conso tetur ading elitor f"
+      }
+    ]
+  }
+}

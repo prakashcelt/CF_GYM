@@ -1,0 +1,32 @@
+{
+  "chapterPreview": {
+    "title": "Curves Fitness Preview",
+    "subtitle": "Get to know the cult",
+    "chapters": [
+      {
+        "image": "/assets/images/chapter-preview/DUS_4791.JPG"
+      },
+      {
+        "image": "/assets/images/chapter-preview/DUS_4800.JPG"
+      },
+      {
+        "image": "/assets/images/chapter-preview/DUS_4823.JPG"
+      },
+      
+      {
+        "image": "/assets/images/chapter-preview/DUS_4847.JPG"
+      },
+
+      {
+        "image": "/assets/images/chapter-preview/DUS_4843.JPG"
+      },
+
+      {
+        "image": "/assets/images/chapter-preview/DUS_4799.JPG"
+      },
+      {
+        "image": "/assets/images/chapter-preview/DUS_4797.JPG"
+      }
+    ]
+  }
+}

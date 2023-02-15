@@ -1,0 +1,35 @@
+{
+  "funFacts": {
+    "title": "ALL MILESTONES ACHIEVED",
+    "subtitle": "AWESOME STATS",
+    "bgColor": "#f5ebe6",
+    "funFactsItem": [
+      {
+        "countNumber": 35,
+        "title": "Achievements",
+        "icon": "assets/icons/page.svg"
+      },
+      {
+        "countNumber": 200,
+        "title": "Active Members",
+        "icon": "assets/icons/read-book.svg"
+      },
+
+      {
+        "countNumber": 102,
+        "title": "Hours a Week",
+        "icon": "assets/icons/hour-glass.svg"
+      },
+      {
+        "countNumber": 992,
+        "title": "Total Sells",
+        "icon": "assets/icons/cart-alt.svg"
+      },
+      {
+        "countNumber": 5,
+        "title": "Awards",
+        "icon": "assets/icons/award.svg"
+      }
+    ]
+  }
+}

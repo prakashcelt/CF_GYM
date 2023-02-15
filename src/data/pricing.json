@@ -1,0 +1,68 @@
+{
+  "pricing": {
+    "title": "Pricing based on their version",
+    "subtitle": "PRICING",
+    "pricingItem": [
+      {
+        "title": "Basic",
+        "price": "600/-",
+        "card": "notActive",
+        "btnText": "JOIN NOW",
+        "feature": [
+          {
+            "item": "28 days"
+          },
+          {
+            "item": "700 including Cardio"
+          },
+          {
+            "item": "Personal Training"
+          },
+          {
+            "item": "Access to Downloads"
+          }
+        ]
+      },
+      {
+        "title": "Premium",
+        "price": "6000/-",
+        "card": "notActive",
+        "btnText": "JOIN NOW",
+        "feature": [
+          {
+            "item": "12 Months"
+          },
+          {
+            "item": "Cardio"
+          },
+          {
+            "item": "Personal Training"
+          },
+          {
+            "item": "Access to Downloads"
+          }
+        ]
+      },
+      {
+        "title": "Regular",
+        "price": "1800/-",
+        "card": "notActive",
+        "btnText": "JOIN NOW",
+        "feature": [
+          {
+            "item": "3 Months"
+          },
+          {
+            "item": "Cardio"
+          },
+          {
+            "item": "Personal Training"
+          },
+          {
+            "item": "Access to Downloads"
+          }
+        ]
+      }
+    ]
+  }
+}

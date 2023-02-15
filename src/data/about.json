@@ -1,0 +1,35 @@
+{
+  "aboutv2": {
+    "title": "Learn about the Founder",
+    "subtitle": "ABOUT FOUNDER",
+    "image": "assets/images/achive.png",
+    "videoURL": "https://www-youtube.com/watch?v=ksImBkJNQt8",
+    "description": "Based on wikipedia, Lorem ipsum dolor sit amet consectetur",
+    "userinfo": [
+      {
+        "title": "Name:",
+        "subtitle": "Jacob Thomas"
+      },
+      {
+        "title": "Born:",
+        "subtitle": "05. 16. 1992"
+      },
+      {
+        "title": "Country:",
+        "subtitle": "US"
+      },
+      {
+        "title": "Email ID:",
+        "subtitle": "info@gmail.com"
+      },
+      {
+        "title": "Languages",
+        "subtitle": "English,Kannada"
+      },
+      {
+        "title": "Address:",
+        "subtitle": "lorem10, lorem lorem lorem"
+      }
+    ]
+  }
+}
