@@ -2,33 +2,27 @@
   "aboutv2": {
     "title": "Learn about the Founder",
     "subtitle": "ABOUT FOUNDER",
-    "image": "assets/images/achive.png",
-    "videoURL": "https://www-youtube.com/watch?v=ksImBkJNQt8",
-    "description": "Based on wikipedia, Lorem ipsum dolor sit amet consectetur",
+    "image": "assets/images/DUS_8483.JPG",
     "userinfo": [
       {
         "title": "Name:",
-        "subtitle": "Jacob Thomas"
+        "subtitle": "Kiran Gowda "
       },
       {
         "title": "Born:",
-        "subtitle": "05. 16. 1992"
+        "subtitle": "17. 03. 1993"
       },
       {
         "title": "Country:",
-        "subtitle": "US"
+        "subtitle": "India"
       },
       {
         "title": "Email ID:",
-        "subtitle": "info@gmail.com"
+        "subtitle": "kirangowda4978@gmail.com"
       },
-      {
-        "title": "Languages",
-        "subtitle": "English,Kannada"
-      },
-      {
+     {
         "title": "Address:",
-        "subtitle": "lorem10, lorem lorem lorem"
+        "subtitle": "#285/2, Maregowdru complex, baglur, Yelahanka main road, Opp poles factory, Bengaluru-562149"
       }
     ]
   }

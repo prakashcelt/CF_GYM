@@ -3,9 +3,6 @@ export const siteLogo = {
     alt: "Curves Fitness" // Add your site name here
     };
     export const socialLink = {
-    facebook: "https://www.facebook.com",
-    twitter: "https://www.twitter.com",
-    linkedin: "https://www.linkedin.com",
-    youtube: "https://www.youtube.com",
-    whatsapp: "https://www.whatsapp.com",
+    facebook: "https://www.facebook.com/people/Curves-Fitness/100054547625464/?mibextid=LQQJ4d",
+    whatsapp: "https://call.whatsapp.com/voice/DxQipVjmQtNCSLRepXnP4X",
     };

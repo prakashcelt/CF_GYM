@@ -1,17 +1,18 @@
-import React, { useEffect } from "react";
-import GLightbox from "glightbox";
+import React from "react";
+
+// import GLightbox from "glightbox";
 import data from "../data/about.json";
-import { FiPlay } from "react-icons/fi";
+// import { FiPlay } from "react-icons/fi";
 import { socialLink } from "../global";
 
 const Author = (isBg) => {
   const { aboutv2 } = data;
 
-  useEffect(() => {
-    GLightbox({
-      selector: ".glightbox3",
-    });
-  }, []);
+  // useEffect(() => {
+  //   GLightbox({
+  //     selector: ".glightbox3",
+  //   });
+  // }, []);
 
   return (
     <>
@@ -43,9 +44,9 @@ const Author = (isBg) => {
                 ""
               ) : (
                 <>
-                  <a href={aboutv2.videoURL} className="glightbox3 video-btn">
+                  {/* <a href={aboutv2.videoURL} className="glightbox3 video-btn">
                     <FiPlay />
-                  </a>
+                  </a> */}
 
                   <div className="promo-video">
                     <div className="waves-block">
@@ -95,37 +96,7 @@ const Author = (isBg) => {
                   </li>
                 )}
 
-                {socialLink.twitter === "" ? (
-                  ""
-                ) : (
-                  <li>
-                    <a href={socialLink.twitter}>
-                      <img
-                        className="img-fluid"
-                        src="assets/icons/twitter.svg"
-                        alt="icon"
-                        width="25"
-                        height="25"
-                      />
-                    </a>
-                  </li>
-                )}
-
-                {socialLink.linkedin === "" ? (
-                  ""
-                ) : (
-                  <li>
-                    <a href={socialLink.linkedin}>
-                      <img
-                        className="img-fluid"
-                        src="assets/icons/linkedin.svg"
-                        alt="icon"
-                        width="25"
-                        height="25"
-                      />
-                    </a>
-                  </li>
-                )}
+               
 
                 {socialLink.whatsapp === "" ? (
                   ""
@@ -143,21 +114,7 @@ const Author = (isBg) => {
                   </li>
                 )}
 
-                {socialLink.youtube === "" ? (
-                  ""
-                ) : (
-                  <li>
-                    <a href={socialLink.youtube}>
-                      <img
-                        className="img-fluid"
-                        src="assets/icons/youtube-play.svg"
-                        alt="icon"
-                        width="25"
-                        height="25"
-                      />
-                    </a>
-                  </li>
-                )}
+               
               </ul>
             </div>
           </div>

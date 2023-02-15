@@ -70,37 +70,7 @@ const Footer = ({ menu, isBg }) => {
                       </li>
                     )}
 
-                    {socialLink.twitter === "" ? (
-                      ""
-                    ) : (
-                      <li>
-                        <a href={socialLink.twitter}>
-                          <img
-                            className="img-fluid"
-                            src="assets/icons/twitter.svg"
-                            alt="icon"
-                            width="25"
-                            height="25"
-                          />
-                        </a>
-                      </li>
-                    )}
-
-                    {socialLink.linkedin === "" ? (
-                      ""
-                    ) : (
-                      <li>
-                        <a href={socialLink.linkedin}>
-                          <img
-                            className="img-fluid"
-                            src="assets/icons/linkedin.svg"
-                            alt="icon"
-                            width="25"
-                            height="25"
-                          />
-                        </a>
-                      </li>
-                    )}
+                   
 
                     {socialLink.whatsapp === "" ? (
                       ""
@@ -118,21 +88,7 @@ const Footer = ({ menu, isBg }) => {
                       </li>
                     )}
 
-                    {socialLink.youtube === "" ? (
-                      ""
-                    ) : (
-                      <li>
-                        <a href={socialLink.youtube}>
-                          <img
-                            className="img-fluid"
-                            src="assets/icons/youtube-play.svg"
-                            alt="icon"
-                            width="25"
-                            height="25"
-                          />
-                        </a>
-                      </li>
-                    )}
+                    
                   </ul>
                 </div>
               </div>
