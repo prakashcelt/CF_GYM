@@ -8,25 +8,25 @@
         "id": 1,
         "icon": "assets/icons/1.svg",
         "title": "Weighlifting",
-        "description": "Lorem ipsum dolor sit amet ametus conso tetur ading elitor,"
+        "description": "Get off the treadmill of consumption, replication, and mediocrity. Begin lifting the weights of creativity, originality, and success.,"
       },
       {
         "id": 1,
         "icon": "assets/icons/2.svg",
         "title": "FlexYourMuscle",
-        "description": "Lorem ipsum dolor sit amet ametus conso tetur ading elitor"
+        "description": "Jump of the beam, flip off the bars, follow your dreams and reach for the stars"
       },
       {
         "id": 1,
         "icon": "assets/icons/3.svg",
         "title": "GoalOrientedTraing",
-        "description": "Lorem ipsum dolor sit amet ametus conso tetur ading elitor f"
+        "description": "Strength does not come from physical capacity"
       },
       {
         "id": 1,
         "icon": "assets/icons/4.svg",
         "title": "Cardio",
-        "description": "Lorem ipsum dolor sit amet ametus conso tetur ading elitor f"
+        "description": "If you want something you've never had, you must be willing to do something you've never done"
       }
     ]
   }
