@@ -363,10 +363,11 @@ body {
 .waves-block .wave-3 {
   animation-delay: 2s;
 }
-.section-wrapper {
+/* .section-wrapper {
   overflow-x: hidden;
   overflow: visible;
-}
-html,body{
-  border: 3px solid black;
-}
+} */
+html,
+body {
+  border: 3px solid;
+ }

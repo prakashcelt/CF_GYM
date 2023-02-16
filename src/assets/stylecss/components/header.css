@@ -28,8 +28,7 @@
   left: 0;
   z-index: 100;
   transition: all 0.3s;
-  transition: all 0.4s ease-in-out;
-}
+  transition: all 0.4s ease-in-out;}
 
 .header .navbar .navbar-brand {
   padding: 0px;
